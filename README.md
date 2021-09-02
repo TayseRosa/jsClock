@@ -10,8 +10,6 @@
 
 ## Demo
 
-<iframe width="100%" height="300" src="//jsfiddle.net/tayse_rosa/3ywv1sm8/2/embedded/result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
-
 Link da demo: https://jsfiddle.net/tayse_rosa/3ywv1sm8/2/
 
 ---
