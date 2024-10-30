@@ -1,14 +1,6 @@
 <h1 align="center"> JS Clock </h1>
 
-#Índice
-- [Demo](#demo)
-- [➡️ About](#️-about)
-- [🚀 Technologies used](#-technologies-used)
-- [📥 How to use](#-how-to-use)
-
----
-
-## Demo
+<img src="readme1.png" />
 
 Link da demo: https://jsfiddle.net/tayse_rosa/3ywv1sm8/2/
 
